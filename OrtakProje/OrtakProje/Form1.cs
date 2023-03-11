@@ -15,6 +15,7 @@ namespace OrtakProje
         public Form1()
         {
             InitializeComponent();
+            //KOK-102 Gelistirmesi uygulandı.
         }
     }
 }
