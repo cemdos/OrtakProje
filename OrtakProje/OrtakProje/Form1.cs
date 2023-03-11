@@ -15,6 +15,8 @@ namespace OrtakProje
         public Form1()
         {
             InitializeComponent();
+            //KOK-101 Geliştirmesi yapıldı
+            // KOK-100 Gelistirmesi
         }
     }
 }
