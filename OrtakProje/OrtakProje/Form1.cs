@@ -16,6 +16,7 @@ namespace OrtakProje
         {
             InitializeComponent();
             //KOK-101 Geliştirmesi yapıldı
+            // KOK-100 Gelistirmesi
         }
     }
 }
