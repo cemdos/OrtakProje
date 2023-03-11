@@ -24,6 +24,7 @@ namespace OrtakProje
             //KOK-106 Geliştirmesi yapıldı
             //KOK-107 Geliştirmesi yapıldı
             //KOK-108 Geliştirmesi yapıldı
+            //KOK-109 Geliştirmesi yapıldı
         }
     }
 }
